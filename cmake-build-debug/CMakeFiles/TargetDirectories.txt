@@ -1,0 +1,3 @@
+C:/Users/Familijo VI Ste/Desktop/VTS/PRVA_GODINA/DRUGI_SEMESTAR/PROGRAMIRANJE/Z2_202407/cmake-build-debug/CMakeFiles/Z2_202407.dir
+C:/Users/Familijo VI Ste/Desktop/VTS/PRVA_GODINA/DRUGI_SEMESTAR/PROGRAMIRANJE/Z2_202407/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Familijo VI Ste/Desktop/VTS/PRVA_GODINA/DRUGI_SEMESTAR/PROGRAMIRANJE/Z2_202407/cmake-build-debug/CMakeFiles/rebuild_cache.dir
